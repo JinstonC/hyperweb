@@ -1,8 +1,32 @@
-html {
-    background: #000 !important;
-}
-    
+@document
+    domain("fabtech.work"),
+    domain("blacktiesports.to"),
+    domain("hdlivegames.xyz"),
+    domain("1stream.link"),
+    domain("techclips.net"),
+    domain("topstreams.info"),
+    domain("1stream.top"),
+    domain("hockeyweb.live"),
+    domain("theanh.tech"),
+    domain("watchkobestreams.info"),
+    domain("blacktiesports.net"),
+    domain("nflsportz.com"),
+    domain("soccerufc.xyz"),
+    domain("usite.pro"),
+    domain("uhdstreams.club"),
+    domain("weakstreams.com"),
+    domain("bfstrs.xyz"),
+    domain("volokit.com"),
+    domain("givemenbastreams.com"),
+    domain("liveonscore.tv")
+    {
+        
+        html {
+            background: #000 !important;
+        }
+            
 
-body {
-    background: #000 !important;
+        body {
+            background: #000 !important;
+        }
 }
