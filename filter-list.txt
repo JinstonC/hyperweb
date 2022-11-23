@@ -1,0 +1,562 @@
+! 2/7/2019 https://www.heroesprofile.com
+heroesprofile.com##.modal-content
+
+! 2/16/2019 https://www.hotslogs.com
+hotslogs.com##.vjs-poster
+hotslogs.com###ac-lre-vjs
+
+! 5/1/2019 https://www.techradar.com
+techradar.com###sp_message_id1556677684656
+techradar.com##.sp_veil1556677684656
+
+! 7/7/2019 https://clipperholics.com
+clipperholics.com##.header-billboard
+
+! 7/7/2019 https://www.playstationlifestyle.net
+www.playstationlifestyle.net##.f-NJD1R8-1-
+www.playstationlifestyle.net##body:style(overflow: auto !important)
+
+! 8/12/2019 https://www.thesaurus.com
+www.thesaurus.com##.e1cs52m20.css-17uty8r-ModalContainer.dcom-modal-container
+
+! 10/30/2019 https://www.theguardian.com
+www.theguardian.com##.site-message--engagement-banner.site-message--banner.site-message--moment-banner.js-site-message.site-message
+
+! 12/13/2019 https://pureinfotech.com
+pureinfotech.com###mailmunch-inner-overlay-16eff5a6ee4415
+pureinfotech.com###mailmunch-popover-container-16eff5a6ee4415
+pureinfotech.com###mailmunch-popover-16eff5a6ee4415
+pureinfotech.com###mailmunch-overlay-16eff5a6ee4415
+
+! 12/25/2019 https://www.clipsnation.com
+||cdn.concert.io/lib/adblock/sbnation.html$subdocument
+www.clipsnation.com##.adblock-whitelist-messaging__wrapper
+
+! 1/24/2020 https://www.theguardian.com
+www.theguardian.com##.site-message--banner.site-message--engagement-banner.js-site-message.site-message
+
+! 1/24/2020 https://www.torrentleech.org
+www.torrentleech.org##.vpn-msg-placeholder
+
+! 2/3/2020 https://www.coupang.com
+coupang.com###fullBanner
+www.coupang.com##.sdp-review:style(user-select: text !important)
+
+! 3/18/2020 rarbgunblocked.org
+||dyncdn.me/static/20/js/expla95.js$script,domain=rarbgunblocked.org,important
+
+! 6/16/2020 https://jav.guru
+jav.guru##[href="https://media.r18.com/track/MTgxOS4xLjEuMS4xLjAuMC4wLjA/videos/rankings/movies/type=daily/"]
+jav.guru##div.footerFloat:nth-of-type(4) > [href^="https://javhd.com/tour/104"]
+
+! 7/17/2020 https://fortune.com
+fortune.com###instream-content > p:nth-of-type(3)
+fortune.com##.paywall:style(filter:none !important;pointer-events:auto !important;user-select:auto !important;)
+
+! 8/4/2020 https://www.bloomberg.com
+www.bloomberg.com###banner-outlet
+
+! 2020-08-16 https://www.tomeps.com
+www.tomeps.com###banner_top_list_wrap
+www.tomeps.com###hd_wrapper > .banner
+
+! 2020-08-17 https://medium.com
+medium.com###lo-highlight-meter-1-highlight-box
+
+! 2020-09-01 https://www.icy-veins.com
+www.icy-veins.com###premium_information
+
+! 2020-09-03 https://pro.i:style(padding:0 !important)
+pro.imdb.com###logged_out_upsell
+
+! 2020-09-24 https://www.torrent-map.net
+www.torrent-map.net###hd_wrapper > .banner
+www.torrent-map.net###banner_top_list_wrap
+
+! 2020-09-28 https://www.torrent-rg.com
+www.torrent-rg.com###banner_top_list_wrap
+
+! 2020-09-28 https://torrentqq52.com
+torrentqq52.com##.header.at-banner.at-row.row
+torrentqq52.com##.at-side.at-col.col-md-3 > div.at-banner.at-row.row:nth-of-type(1)
+torrentqq52.com##.hidden-sm.hidden-xs.footer.at-banner.at-row.row
+
+! 2020-10-05 https://www.wired.com
+www.wired.com###app-root > .page--article.page-theme-standard.page > .persistent-bottom
+
+! 2020-10-26 evoload.io
+@@||cdn1.evosrv.com/html/videojs/plugins/videojs-contrib-ads.js$script,domain=evoload.io
+
+! 2020-11-04 https://www.businessinsider.com
+www.businessinsider.com##.tp-modal
+www.businessinsider.com##.tp-active.tp-backdrop
+www.businessinsider.com##body:style(overflow:auto !important)
+||www.businessinsider.com/chunks/scripts/piano.*.js$script,domain=www.businessinsider.com
+
+! 2020-11-04 https://kshowonline.com
+kshowonline.com##.ct2jh0XFhAo
+
+tistory.com##body:style(filter:none !important;pointer-events:auto !important;user-select:auto !important;-moz-user-select: auto !important;)
+tistory.com##+js(aopr, document.oncontextmenu)
+tistory.com##+js(aopr, document.onselectstart)
+tistory.com##+js(aopr, document.ondragstart)
+tistory.com##+js(ra, oncontextmenu|onselectstart|ondragstart)
+
+! 2020-12-15 https://www.fosshub.com
+www.fosshub.com##.ad
+
+! 2020-12-15 https://www.youjizz.com
+www.youjizz.com###onPausePrContainer
+||yjo.youjizz.com^$media,domain=www.youjizz.com
+
+! 2020-12-16 https://ttobogo.net
+ttobogo.net##.at-main.at-col.col-md-8.col-xs-8 > .banners.row
+ttobogo.net##.at-right.at-side.at-col.col-md-3.col-xs-3 > .banners.row
+
+! 2021-01-03 https://techcrunch.com
+techcrunch.com##.extra-crunch-offer-container
+
+! 2021-01-10 https://www.jjangto.info
+www.jjangto.info###hd_wrapper > div
+www.jjangto.info###container > div
+www.jjangto.info###aside > div > [href="/bbs/qalist.php"]
+
+! 2021-01-20 https://us.aoc.com
+us.aoc.com##.active.country-popup
+
+! 2021-02-09 https://torrentonly.com
+torrentonly.com##.top_banner
+torrentonly.com##div.fleft [href^="https://torrentonly.com/bbs/bannerhit.php"]
+
+! 2021-02-11 https://torrentplay10.com
+torrentplay10.com##.banner-wrap
+
+! 2021-02-21 http://liveonscore.tv
+|about:$popup,domain=liveonscore.tv
+liveonscore.tv##[class=".\w{9}"] > div
+liveonscore.tv##.jpki > div
+liveonscore.tv###gamecard
+liveonscore.tv##.widget-area.content-sidebar
+liveonscore.tv##.header-main
+liveonscore.tv##.entry-header
+liveonscore.tv##.discord
+liveonscore.tv##p:nth-of-type(1)
+liveonscore.tv##body:style(margin: 0 auto !important; max-width: none !important; background: #000 !important;)
+liveonscore.tv##.site-content:style(margin-left: auto !important; margin-right: auto !important; max-width: none !important;)
+liveonscore.tv##.entry-content:style(margin-left: auto !important; margin-right: auto !important; max-width: none !important; padding: 0 !important;)
+liveonscore.tv##.hentry:style(max-width: none !important; margin-bottom: 0 !important;)
+liveonscore.tv###page:style(max-width: none !important;)
+liveonscore.tv###main:style(margin-top: 0 !important;)
+liveonscore.tv###masthead:style(max-width: none !important;)
+liveonscore.tv###video-player > div:style(width: 179vh !important; max-height: 100vh !important;margin: 0 auto !important;)
+liveonscore.tv##.embed-responsive:style(padding-bottom: 0 !important;)
+liveonscore.tv##.site-info
+liveonscore.tv##body > a
+liveonscore.tv##table
+liveonscore.tv###main > .ads-placment
+liveonscore.tv##p
+liveonscore.tv##.site-footer
+liveonscore.tv##.content-area:style(padding: 0 !important;)
+liveonscore.tv##.game
+
+! 2021-03-11 https://www.ghacks.net
+www.ghacks.net##div.banner-feed.box-banner
+
+! 2021-03-23 https://www.espn.com
+www.espn.com##.promo-banner-container
+
+! 2021-03-24 https://charlieintel.com
+charlieintel.com###topunit
+
+! 2021-04-06 http://givemenbastreams.com
+givemenbastreams.com##.lg\:w-3\/12.overflow-hidden.rounded.w-full
+givemenbastreams.com##.mt-5.w-full
+givemenbastreams.com##.shadow-lg.p-5.bg-primary.flex-wrap.justify-between.items-center.flex
+givemenbastreams.com##.p-5:style(padding:0 !important)
+givemenbastreams.com##.lg\:w-9\/12:style(width:85% !important)
+givemenbastreams.com##.lg\:pl-4:style(padding-left:0 !important)
+
+! 2021-04-11 https://www.youtube.com
+youtube.com##.ytp-ce-element
+www.youtube.com###offer-module
+! Removes Mixes from the Main Page
+youtube.com##ytd-rich-item-renderer #video-title-link[title*="Mix"][href$="start_radio=1"]:upward(ytd-rich-item-renderer)
+! Removes Mixes from the right side panel
+youtube.com##ytd-compact-radio-renderer
+! Removes Mixes from search results
+youtube.com##ytd-radio-renderer
+! Remove YouTube Home Tab
+youtube.com##+js(json-prune, items.0.guideSectionRenderer.items.0.guideEntryRenderer)
+! Remove YouTube Shorts Tab
+youtube.com##+js(json-prune, items.0.guideSectionRenderer.items.1.guideEntryRenderer)
+! Remove More From YouTube
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+
+! 2021-04-18 https://reddit.nbabite.com
+reddit.nbabite.com##div.scores-box > .container
+
+! 2021-05-09 http://www.volokit.com
+www.volokit.com##.td-footer-template-wrap
+www.volokit.com##.td-header-template-wrap
+www.volokit.com##.td-fix-index.tdb-block-inner > .td-all-devices
+www.volokit.com##.volo-card-nba.volo-card
+www.volokit.com##.td-menu-background
+www.volokit.com##.td-mobile-nav
+www.volokit.com##.td-search-background
+www.volokit.com##.td-search-wrap-mob
+www.volokit.com##.td-main-content-wrap:style(padding-top: 0 !important;)
+www.volokit.com##.td-main-content-wrap:style(padding-top: 0 !important;)
+www.volokit.com##.tdc-row[class*="stretch_row"] > .td-pb-row > .td-element-style, .tdc-row-composer[class*="stretch_row"] > .td-pb-row > .td-element-style:style(width: 100% !important; left: 0 !important; transform: none !important;)
+www.volokit.com##.vc_column:style(padding: 0 !important;)
+www.volokit.com##.td-pb-row [class*="td-pb-span"]:style(float: none !important;padding: none !important;)
+www.volokit.com##.td-pb-span8:style(width: 100% !important;)
+www.volokit.com##.td-theme-wrap:style(height: 90vh !important;)
+www.volokit.com##.voloplayer iframe:style(height: 85vh !important;)
+www.volokit.com##.td-block
+
+! 2021-06-06 https://www.washingtonpost.com
+www.washingtonpost.com##amp-subscriptions-dialog
+
+! 2021-06-06 http://bfstrs.xyz
+bfstrs.xyz###webmodal2
+bfstrs.xyz##.in.modal-backdrop
+bfstrs.xyz##.col-lg-3
+bfstrs.xyz##body > .row
+bfstrs.xyz##body:style(padding-top: 0 !important;)
+bfstrs.xyz##.container:style(padding: 0 !important; width: 172vh !important; height: 99vh !important; margin: 0.5vw auto !important;)
+bfstrs.xyz##.page-header:style(padding: 0 !important;)
+bfstrs.xyz##.panel:style(margin: 0 !important;)
+bfstrs.xyz##.col-lg-10:style(width: 100% !important; padding: 0 !important;)
+bfstrs.xyz##.col-lg-offset-1:style(margin: 0 !important;)
+bfstrs.xyz###ipopp:style(height: 98vh !important;)
+bfstrs.xyz###ipopp > #document > html > body > #ppp > div:style(height: 76% !important;)
+
+! 2021-06-25 https://www.torrentuu.com
+www.torrentuu.com##[href^="/etc/link.php"]
+
+! 2021-08-10 https://www.heroesprofile.com
+www.heroesprofile.com###modal-uploader-windows
+
+! 2021-10-06 http://weakstreams.com
+weakstreams.com##.adsbyvli
+weakstreams.com##.ads-placment
+weakstreams.com##.widget-area.content-sidebar
+weakstreams.com##.discord
+weakstreams.com###gamecard
+weakstreams.com##p
+weakstreams.com##.masonry.widget-area.footer-sidebar
+weakstreams.com##.site-info
+weakstreams.com##.entry-header
+weakstreams.com##.site-header
+weakstreams.com###colophon
+weakstreams.com##body:style(background: #000 !important;)
+weakstreams.com###page:style(margin: 0 !important;)
+weakstreams.com###main:style(margin: 0 !important;)
+weakstreams.com###primary:style(padding: 0 !important;)
+weakstreams.com###page:style(padding: 0 !important;)
+weakstreams.com###content:style(margin: 0 !important;)
+weakstreams.com##.hentry:style(margin: 0 !important; max-width: none !important;)
+weakstreams.com##.entry-content:style(margin: 0 !important; padding: 0 !important; max-width:none !important; background: #000 !important;)
+weakstreams.com##.embed-responsive:style(height:56vw !important; max-height: 100vh !important; max-width:100vw !important;)
+weakstreams.com##.embed-responsive video:style(height:56vw !important; max-height: 100vh !important; max-width:100vw !important;)
+weakstreams.com##.embed-responsive-16by9:style(padding: 0 !important; background: #000 !important; aspect-ratio: 16 / 9; margin: 0 auto !important;)
+weakstreams.com##video:style(aspect-ratio: 16 / 9;)
+weakstreams.com##.site:style(max-width: none !important; display: block !important; margin: 0 auto !important;)
+weakstreams.com##.container:style(height: 56vw !important; max-height: 100vh !important;max-width:100vw !important;)
+weakstreams.com###video-player:style(background: #000 !important;)
+weakstreams.com###video-player > div:style(height: 56vw !important; !important; width: 100% !important; max-height: 100vh !important; max-width: 100vw !important; margin: 0 auto !important;)
+weakstreams.com##html:style(overflow: hidden !important;)
+weakstreams.com##.active.right_bottom.floating.style-3.wp-dark-mode-ignore.wp-dark-mode-switcher
+
+! 2021-12-07 https://www.newyorker.com
+www.newyorker.com##.persistent-bottom.hdtrtw.PersistentBottomWrapper-bziBCA
+
+! 2021-12-09 https://www.microsoft.com
+www.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
+
+! 2021-12-17 https://www.heroesprofile.com
+www.heroesprofile.com##.diablo-heading
+www.heroesprofile.com##.beta-message
+
+! 2022-02-10 http://uhdstreams.club
+uhdstreams.club##body > center
+uhdstreams.club##body > a > div
+uhdstreams.club##body > a > center > iframe:nth-of-type(2)
+uhdstreams.club##body > a > center:nth-of-type(2)
+uhdstreams.club##.container > div
+uhdstreams.club##body:style(margin:0; background:#000 !important;)
+uhdstreams.club##body > a > center > iframe:style(aspect-ratio: 16 / 9; width: auto !important; height: 100vh !important;)
+||afjxriipst.com^$script,domain=uhdstreams.club
+
+! 2022-02-10 http://soccerufc.xyz
+soccerufc.xyz##body > div:nth-of-type(2)
+soccerufc.xyz##body > div:nth-of-type(3)
+soccerufc.xyz##.body-background-2
+soccerufc.xyz##.site-container > a
+soccerufc.xyz##.site-header
+soccerufc.xyz##.nav-primary-height-fix
+soccerufc.xyz##.nav-secondary
+soccerufc.xyz##.dp-ad-below-primary-menu
+soccerufc.xyz##.ad-below-site-content
+soccerufc.xyz##.widget-area
+soccerufc.xyz##.ad-above-page-title
+soccerufc.xyz##.entry-header-wrap
+soccerufc.xyz##.entry-categories-wrap
+soccerufc.xyz##.dp-social-media-share-wrap
+soccerufc.xyz##.ad-below-page-content
+soccerufc.xyz##.ad-above-page-content
+soccerufc.xyz##.dp-social-media-share-wrap
+soccerufc.xyz##.aoa_wrap > p
+soccerufc.xyz##.site-footer
+soccerufc.xyz##body:style(background: #000 !important; margin: 0 auto !important)
+soccerufc.xyz##.site-inner:style(padding: 0 !important; height: 100vh !important; background: #000 !important; float: none !important;)
+soccerufc.xyz##.wrap:style(padding: 0 !important; width: auto !important; height: 100vh !important;)
+soccerufc.xyz##.sidebar1-content-wrap:style(width: auto !important; height: 100vh !important;)
+soccerufc.xyz##.content:style(padding: 0 !important; margin: 0 auto !important; float: none !important;)
+soccerufc.xyz##.entry-content:style(width: auto !important; height: 100vh !important; background: #000 !important;)
+soccerufc.xyz##.video:style(aspect-ratio: 16 / 9; width:auto !important; height: 100vh !important;)
+soccerufc.xyz##video:style(aspect-ratio: 16 / 9; width: 100vw !important; height: auto !important;)
+soccerufc.xyz##.media-control:style(aspect-ratio: 16 / 9; height: auto !important;)
+
+! 2022-03-13 https://nflsportz.com
+nflsportz.com##center
+nflsportz.com##.adsBox
+nflsportz.com##body:style(background: #000 !important; overflow: hidden;)
+nflsportz.com##body > a > iframe:style(width: auto !important; height:100vh !important; aspect-ratio: 16 / 9; display: block; margin: 0 auto;)
+
+! 2022-03-03 https://bleacherreport.com
+bleacherreport.com##.fixedBottom
+
+! 2022-03-25 http://blacktiesports.net
+blacktiesports.net##[href="http://blacktiesports.net"]
+blacktiesports.net##body:style(margin: 0 !important; background: #000 !important;)
+blacktiesports.net##video:style(aspect-ratio: 16 / 9;)
+blacktiesports.net###player > div:style(aspect-ratio: 16 / 9; margin: 0 auto !important; height: 100vh !important; width: auto !important;)
+
+! 2022-03-30 https://eztv.re
+eztv.re##.forum_header_border_normal > tbody > tr > td > div
+eztv.re##body > a
+||eztv.re/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js$script,1p
+||knoure.com^$script
+||rilins.com^$script
+||ployea.com^$script
+||tuvene.com^$script
+||phrait.com^$script
+||ctrons.com^$script
+
+! 2022-04-01 http://ace7.usite.pro
+ace7.usite.pro##.centerize
+ace7.usite.pro##body:style(margin: 0 !important; background-color: #000 !important;)
+ace7.usite.pro##body:style(width: auto !important;)
+ace7.usite.pro###stream:style(width: auto !important; height: 100vh !important; float: none !important; display: block; aspect-ratio: 16 / 9; margin: 0 auto;)
+
+! 2022-06-17 https://theathletic.com
+theathletic.com###slideup-paywall
+theathletic.com###darken-overlay
+theathletic.com##.noscroll:style(position: initial !important; overflow: auto !important;)
+theathletic.com##.Pnqwk:style(background: none !important;)
+
+! 2022-06-18 https://eventnet.gmarket.co.kr
+@@||image.gmarket.co.kr^$image,domain=eventnet.gmarket.co.kr
+
+! 2022-07-11 https://www.torrentreel95.top
+www.torrentreel95.top##.content-right > div > a[href="#"]
+www.torrentreel95.top##.quick
+www.torrentreel95.top##.content-left > div:nth-of-type(2)
+
+! 2022-07-20 https://www.wallstreetmojo.com
+www.wallstreetmojo.com###pum-72281
+www.wallstreetmojo.com##body:style(overflow-x: scroll !important)
+
+! 2022-10-12 http://watchkobestreams.info
+watchkobestreams.info##.reminder
+watchkobestreams.info##.ad
+watchkobestreams.info##.afs_ads
+watchkobestreams.info##h1
+watchkobestreams.info##[href]
+watchkobestreams.info##body:style(margin: 0 !important;)
+watchkobestreams.info##body > article:nth-of-type(1)
+watchkobestreams.info##body > ul
+watchkobestreams.info##.stream > iframe:nth-of-type(2)
+watchkobestreams.info##iframe:style(height: 95vh !important; width: 200vh !important;)
+watchkobestreams.info##.container-fluid:style(padding: 0 !important;)
+
+! 2022-10-20 http://theanh.tech
+theanh.tech##.vjs-watermark
+theanh.tech##.g1-back-to-top
+theanh.tech##.g1-canvas-overlay
+theanh.tech###g1-breakpoint-desktop
+theanh.tech##.g1-row-layout-page.g1-row.g1-footer
+theanh.tech##.g1-row-layout-page.g1-row.g1-prefooter-3cols.g1-prefooter
+theanh.tech##.g1-dark.g1-socials-section.g1-row-layout-page.g1-row
+theanh.tech##.g1-sticky-top-wrapper.g1-hb-row-3.g1-loaded
+theanh.tech##.g1-hb-shadow-off.g1-row.g1-row-layout-page.g1-hb-row.g1-hb-row-normal.g1-hb-row-b.g1-hb-row-2.g1-hb-boxed.g1-hb-sticky-off
+theanh.tech##.g1-row.g1-row-layout-page.g1-hb-row.g1-hb-row-normal.g1-hb-row-a.g1-hb-row-1.g1-hb-boxed.g1-hb-sticky-off.g1-hb-shadow-off
+theanh.tech##.g1-canvas.g1-canvas-global.g1-canvas-no-js
+theanh.tech###secondary
+theanh.tech##.entry-inner > header
+theanh.tech##.entry-inner > div > br
+theanh.tech##.entry-inner > div > p
+theanh.tech##.g1-row-background
+theanh.tech##.g1-row.g1-row-padding-m.g1-row-layout-page:style(padding: 0 !important;)
+theanh.tech##.g1-row-inner:style(margin: 0 !important; max-width: initial !important;)
+theanh.tech###primary:style(margin: 0 !important; padding: 0 !important; width: 100% !important;)
+theanh.tech##article > span
+theanh.tech##.snax-post-container.snax
+theanh.tech##.vidmain:style(max-width: initial !important;)
+theanh.tech##video:style(margin: 0 !important; max-height: 100vh !important;)
+theanh.tech##.player_responsive > div:style(margin: auto !important; padding: 0 !important; width: 178vh !important; height: 100vh !important;)
+
+! 2022-10-23 http://hockeyweb.live
+hockeyweb.live##div.col-lg-12:nth-of-type(1)
+hockeyweb.live##.aoa_overlay
+hockeyweb.live##div.col-lg-12:nth-of-type(3)
+hockeyweb.live##div.col-lg-12:nth-of-type(4)
+hockeyweb.live##.elementor-widget-sidebar.elementor-widget.elementor-element-c239982.elementor-element
+hockeyweb.live###gen-header
+hockeyweb.live###gen-footer
+hockeyweb.live##.elementor-element-2c43b64.elementor-element.elementor-top-column.elementor-col-33.elementor-column
+
+! 2021-11-07 http://1stream.top
+1stream.top##div.row:nth-of-type(1)
+1stream.top###root > div > div:nth-of-type(2)
+1stream.top###root > div > br
+1stream.top###root > div > div > br
+1stream.top##.col-md-3
+1stream.top###main-header-right
+1stream.top##.top-head-player
+1stream.top##.navbar-default.navbar
+1stream.top##body:style(background-color:#000 !important;)
+1stream.top##.col-md-9:style(padding:0 !important; width: 100% !important; float: none !important;)
+1stream.top##.row:style(margin:0 !important;)
+1stream.top###video-player > div:style(width: 178vh !important; max-width: 100vw !important; height:56vw !important; max-height: 100vh !important; margin: 0 auto !important;)
+1stream.top##.container > video:style(aspect-ratio: 16 / 9;)
+1stream.top##.contentContain:style(padding:0 !important; aspect-ratio: 16 / 9; max-height: 100vh !important; width: auto !important; left: 0; right: 0; margin: 0 auto !important;)
+
+! 2021-11-18 https://topstreams.info
+topstreams.info##.schedule
+topstreams.info##nav
+topstreams.info##.col-c
+topstreams.info##.philosopher
+topstreams.info##.layout-full--watch.layout-full
+topstreams.info##section.col-b:nth-of-type(2)
+topstreams.info###header-wrapper
+topstreams.info###dialog-confirm
+topstreams.info###dialog
+topstreams.info##html:style(overflow: hidden;)
+topstreams.info##body:style(background: #000 !important;)
+topstreams.info###global-viewport:style(background: #000 !important;)
+topstreams.info###main-container:style(padding: 0 !important;)
+topstreams.info##.layout-dbc:style(padding: 0 !important; width: 100% !important;)
+topstreams.info##.layout-bc:style(padding: 0 !important;)
+topstreams.info##.col-b:style(width: 100% !important;)
+topstreams.info##.hero--super:style(margin: 0 !important;)
+topstreams.info##.fp-player > a:style(visibility: hidden !important;)
+topstreams.info##video:style(aspect-ratio: 16 / 9;)
+topstreams.info##.hero_wrapper:style(height: 56vw !important; max-height: 100vh !important; max-width: 100vw !important;)
+topstreams.info##.flowplayer:style(background: #000 !important;)
+topstreams.info##.fp-engine, .fp-ui:style(width: initial !important; max-width: 100vw !important; height: 56vw !important; max-height: 100vh !important; aspect-ratio: 16 / 9; left: 50% !important; transform: translate(-50%, 0%);)
+topstreams.info###pane-main:style(padding: 0 !important; background: #000 !important; aspect-ratio: 16 / 9; width: 178vh !important; max-width: 100vw !important; height: 56vw !important; max-height: 100vh !important; margin: 0 auto;)
+topstreams.info##.shaka-video-container:style(width: initial !important; height: 56vw !important; aspect-ration: 16 / 9 !important; max-width: 100vw !important; max-height: 100vh !important; margin-inline: auto !important;)
+
+! 2021-09-08 https://www.allkpop.com
+allkpop.com##body:style(overflow: auto !important)
+www.allkpop.com##article.list:nth-of-type(3)
+www.allkpop.com###article-headline-right > article.list:nth-of-type(1)
+www.allkpop.com###article-headline-right > article.list:nth-of-type(2)
+www.allkpop.com###article-headline-right > article.list:nth-of-type(4)
+www.allkpop.com##.apester-element.apester-media
+www.allkpop.com##.show_alltime
+www.allkpop.com##.f-NJD1R8-1-
+www.allkpop.com##.float-right.home_right > article.list:nth-of-type(2)
+www.allkpop.com##.akp2_top_img
+www.allkpop.com##[id^="promo"]
+www.allkpop.com##.akp2_top
+www.allkpop.com##.akp2_wrap
+www.allkpop.com##.buzz_notice.list
+
+! 2022-10-31 http://blacktiesports.to
+blacktiesports.to##.text-center.justify-content-center.mt-2.m-0.row
+blacktiesports.to##div > center
+blacktiesports.to##.bmc-btn-container
+blacktiesports.to##div > .container
+blacktiesports.to##input.btn-sm.btn-primary.btn
+blacktiesports.to##body > div:nth-of-type(1)
+blacktiesports.to##body > center
+blacktiesports.to###playRow
+blacktiesports.to###vi-sticky-ad
+blacktiesports.to##.d-md-block.d-none.col-lg-2
+blacktiesports.to##div.d-md-block.d-none.col-lg-3:nth-of-type(1)
+blacktiesports.to##div.d-md-block.d-none.col-lg-3:nth-of-type(3)
+blacktiesports.to##div.justify-content-center.row:nth-of-type(1)
+blacktiesports.to##.text-center.justify-content-center.mt-0.m-0.row
+blacktiesports.to##.mb-5, .my-5:style(margin-bottom: 0 !important;)
+blacktiesports.to##col-lg-7, col-12:style(padding: 0 !important; margin: 0 auto !important;)
+blacktiesports.to##body:style(margin: 0 !important;)
+
+! 2022-10-31 http://fabtech.work
+fabtech.work##.vjs-watermark
+fabtech.work##p
+fabtech.work##br
+fabtech.work##.g1-teaser-arrow
+fabtech.work##.g1-teaser-prev.g1-teaser
+fabtech.work##.g1-column-1of3.g1-column.g1-sidebar-padded.g1-sidebar
+fabtech.work##.g1-loaded.g1-hb-row-2.g1-sticky-top-wrapper
+fabtech.work##.entry-header-01.entry-header
+fabtech.work##.g1-socials-section
+fabtech.work##.g1-footer
+fabtech.work##.g1-sticky
+fabtech.work##.g1-sticky-top-wrapper
+fabtech.work##.g1-hb-row
+fabtech.work##.g1-row-background
+fabtech.work##.g1-row-layout-page.g1-row.g1-prefooter-3cols.g1-prefooter
+fabtech.work##.g1-row-padding-m:style(padding: 0 !important)
+fabtech.work##.g1-row-inner:style(width: 178vh !important; max-width: 100vw !important;)
+fabtech.work##.g1-column:style(padding: 0 !important;)
+fabtech.work##.g1-column-2of3:style(width:178vh !important; max-width:100vw !important;)
+fabtech.work##video:style(aspect-ratio: 16 / 9 !important;)
+fabtech.work##.vidmain:style(width: 178vh !important; max-width:100vw !important;)
+
+! 2022-10-31 https://techclips.net
+@@||techclips.net^$generichide
+techclips.net##+js(bab-defuser)
+techclips.net##.shadow-lg.p-5.bg-primary.flex-wrap.justify-between.items-center.flex
+techclips.net##.lg\:w-3\/12.overflow-hidden.rounded.w-full
+techclips.net##.mt-5.w-full
+techclips.net##html > body > iframe
+techclips.net##html > body > div:nth-of-type(2)
+techclips.net##html > body > span
+techclips.net##.dark-mode-toggle
+techclips.net##body:style(background: #000 !important; width:178vh !important; max-width: 100vw !important; height: 56vw !important; max-height: 100vh !important;)
+techclips.net##main:style(padding: 0 !important;)
+techclips.net###app:style(background: #000 !important; width:178vh !important; max-width: 100vw !important; height: 56vw !important; max-height: 100vh !important;)
+techclips.net##.lg\:pl-4:style(padding: 0 !important;)
+techclips.net##.w-full:style(width: 100% !important;)
+
+! 2022-11-15 http://1stream.link
+1stream.link##.col-md-pull-9.col-md-3
+1stream.link##.navbar-default.navbar
+1stream.link##small
+1stream.link###root > div > .text-center
+1stream.link###root > div > br
+1stream.link##hr
+1stream.link##::before
+1stream.link##::after
+1stream.link###player-section > h1
+1stream.link##html > body:style(background: #000 !important; max-height: 100vh !important;)
+1stream.link##.container:style(width: 100% !important; padding: 0 !important;)
+1stream.link##.row:style(margin: 0 !important;)
+1stream.link##.col-md-9.col-md-push-3.p-4:style(padding: 0 !important;)
+1stream.link##.col-md-push-3:style(left:initial !important;)
+1stream.link##.col-md-9:style(width: fit-content !important; margin-inline: auto !important; float: none !important;)
+1stream.link###video-player > div:style(width: 178vh !important; max-width: 100vw !important; height: 100vh !important; max-height: 56vw !important;)
+
+! 2022-11-21 https://hdlivegames.xyz
+hdlivegames.xyz##+js(disable-newtab-links)
+hdlivegames.xyz##body > center
+hdlivegames.xyz##body > a > center:nth-of-type(1)
+hdlivegames.xyz##body > a > center:nth-of-type(3)
+hdlivegames.xyz##body > a > center:nth-of-type(2) > iframe:nth-of-type(2)
+hdlivegames.xyz##body:style(background: #000 !important; margin: 0 !important;)
+hdlivegames.xyz##body > a:style(display: block !important; margin: 0 auto !important; width: 178vh !important; max-width: 100vw !important; height: 56vw !important; max-height: 100vh !important;)
+hdlivegames.xyz##body > a > center:nth-of-type(2) > iframe:nth-of-type(1):style(display: block !important; margin: 0 auto !important; width: 178vh !important; max-width: 100vw !important; height: 56vw !important; max-height: 100vh !important;)
