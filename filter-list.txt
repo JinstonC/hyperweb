@@ -48,6 +48,7 @@ www.coupang.com##.sdp-review:style(user-select: text !important)
 ! 6/16/2020 https://jav.guru
 jav.guru##[href="https://media.r18.com/track/MTgxOS4xLjEuMS4xLjAuMC4wLjA/videos/rankings/movies/type=daily/"]
 jav.guru##div.footerFloat:nth-of-type(4) > [href^="https://javhd.com/tour/104"]
+jav.guru###text-76
 
 ! 7/17/2020 https://fortune.com
 fortune.com###instream-content > p:nth-of-type(3)
@@ -251,7 +252,7 @@ weakstreams.com##.site-header
 weakstreams.com###colophon
 weakstreams.com##body:style(background: #000 !important;)
 weakstreams.com###page:style(margin: 0 !important;)
-weakstreams.com###main:style(margin: 0 !important;)
+weakstreams.com###main:style(background: #000 !important; margin: 0 !important;)
 weakstreams.com###primary:style(padding: 0 !important;)
 weakstreams.com###page:style(padding: 0 !important;)
 weakstreams.com###content:style(margin: 0 !important;)
@@ -555,8 +556,163 @@ techclips.net##.w-full:style(width: 100% !important;)
 hdlivegames.xyz##+js(disable-newtab-links)
 hdlivegames.xyz##body > center
 hdlivegames.xyz##body > a > center:nth-of-type(1)
-hdlivegames.xyz##body > a > center:nth-of-type(3)
-hdlivegames.xyz##body > a > center:nth-of-type(2) > iframe:nth-of-type(2)
+hdlivegames.xyz##body > a > center:nth-of-type(2)
+hdlivegames.xyz##body > a > center:nth-of-type(3) > iframe:nth-of-type(2)
+hdlivegames.xyz##body > a > center:nth-of-type(4)
 hdlivegames.xyz##body:style(background: #000 !important; margin: 0 !important;)
 hdlivegames.xyz##body > a:style(display: block !important; margin: 0 auto !important; width: 178vh !important; max-width: 100vw !important; height: 56vw !important; max-height: 100vh !important;)
-hdlivegames.xyz##body > a > center:nth-of-type(2) > iframe:nth-of-type(1):style(display: block !important; margin: 0 auto !important; width: 178vh !important; max-width: 100vw !important; height: 56vw !important; max-height: 100vh !important;)
+hdlivegames.xyz##body > a > center:nth-of-type(3) > iframe:nth-of-type(1):style(display: block !important; margin: 0 auto !important; width: 178vh !important; max-width: 100vw !important; height: 56vw !important; max-height: 100vh !important;)
+
+! 2022-11-24 https://giupbansongkhoe.com
+giupbansongkhoe.com##body > div > div:nth-of-type(2)
+giupbansongkhoe.com##body > div:nth-of-type(2)
+giupbansongkhoe.com##body > div:nth-of-type(3)
+giupbansongkhoe.com##body > div:nth-of-type(4)
+giupbansongkhoe.com##body > div:nth-of-type(5)
+giupbansongkhoe.com##body > div:nth-of-type(6)
+giupbansongkhoe.com##body > div:nth-of-type(7)
+giupbansongkhoe.com##body > div:nth-of-type(8)
+giupbansongkhoe.com##body > div:nth-of-type(9)
+giupbansongkhoe.com##body > div:nth-of-type(10)
+giupbansongkhoe.com##.g1-sticky-top-wrapper
+giupbansongkhoe.com##.g1-hb-row-3
+giupbansongkhoe.com##.g1-loaded
+giupbansongkhoe.com##.g1-hb-row
+giupbansongkhoe.com##.g1-hb-row-normal
+giupbansongkhoe.com##.g1-hb-row-b
+giupbansongkhoe.com##.g1-hb-row-2
+giupbansongkhoe.com##.g1-hb-boxed
+giupbansongkhoe.com##.g1-hb-sticky-off
+giupbansongkhoe.com##.g1-hb-shadow-off
+giupbansongkhoe.com##.g1-socials-section
+giupbansongkhoe.com##.g1-dark
+giupbansongkhoe.com##.g1-prefooter
+giupbansongkhoe.com##.g1-prefooter-3cols
+giupbansongkhoe.com##.g1-footer
+giupbansongkhoe.com##.g1-back-to-top
+giupbansongkhoe.com##.g1-back-to-top-off
+giupbansongkhoe.com##.g1-row-background
+giupbansongkhoe.com###secondary
+giupbansongkhoe.com##article > span
+giupbansongkhoe.com##.entry-inner > header
+giupbansongkhoe.com##.entry-content > p
+giupbansongkhoe.com##.entry-content > br
+giupbansongkhoe.com##.snax
+giupbansongkhoe.com##.snax-post-container
+giupbansongkhoe.com##.vjs-watermark
+giupbansongkhoe.com##body:style(background: #000 !important;)
+giupbansongkhoe.com##.g1-row-padding-m:style(padding: 0 !important;)
+giupbansongkhoe.com##.g1-column:style(padding: 0 !important;)
+giupbansongkhoe.com##.g1-row-inner:style(margin: 0 auto !important; width: 178vh !important; max-width: 100vw !important;)
+giupbansongkhoe.com###primary:style(width: 178vh !important; max-width: 100vw !important; height: 56vw !important; max-height: 100vh !important;)
+giupbansongkhoe.com##.vidmain:style(width: 178vh !important; max-width: 100vw !important; height: 56vw !important; max-height: 100vh !important;)
+
+! 2022-12-15 http://weakstream.net
+weakstream.net##.adsbyvli
+weakstream.net##.ads-placment
+weakstream.net##.widget-area.content-sidebar
+weakstream.net##.discord
+weakstream.net###gamecard
+weakstream.net##p
+weakstream.net##.masonry.widget-area.footer-sidebar
+weakstream.net##.site-info
+weakstream.net##.entry-header
+weakstream.net##.site-header
+weakstream.net###colophon
+weakstream.net##body:style(background: #000 !important;)
+weakstream.net###page:style(margin: 0 !important;)
+weakstream.net###main:style(background: #000 !important; margin: 0 !important;)
+weakstream.net###primary:style(padding: 0 !important;)
+weakstream.net###page:style(padding: 0 !important;)
+weakstream.net###content:style(margin: 0 !important;)
+weakstream.net##.hentry:style(margin: 0 !important; max-width: none !important;)
+weakstream.net##.entry-content:style(margin: 0 !important; padding: 0 !important; max-width:none !important; background: #000 !important;)
+weakstream.net##.embed-responsive:style(height:56vw !important; max-height: 100vh !important; max-width:100vw !important;)
+weakstream.net##.embed-responsive video:style(height:56vw !important; max-height: 100vh !important; max-width:100vw !important;)
+weakstream.net##.embed-responsive-16by9:style(padding: 0 !important; background: #000 !important; aspect-ratio: 16 / 9; margin: 0 auto !important;)
+weakstream.net##video:style(aspect-ratio: 16 / 9;)
+weakstream.net##.site:style(max-width: none !important; display: block !important; margin: 0 auto !important;)
+weakstream.net##.container:style(height: 56vw !important; max-height: 100vh !important;max-width:100vw !important;)
+weakstream.net###video-player:style(background: #000 !important;)
+weakstream.net###video-player > div:style(height: 56vw !important; !important; width: 100% !important; max-height: 100vh !important; max-width: 100vw !important; margin: 0 auto !important;)
+weakstream.net##html:style(overflow: hidden !important;)
+weakstream.net##.active.right_bottom.floating.style-3.wp-dark-mode-ignore.wp-dark-mode-switcher
+
+! 2022-12-15 https://gameshdlive.xyz
+gameshdlive.xyz##+js(disable-newtab-links)
+gameshdlive.xyz##body > center:nth-of-type(1)
+gameshdlive.xyz##body > center:nth-of-type(2)
+gameshdlive.xyz##body > center:nth-of-type(3)
+gameshdlive.xyz##.padPreload
+gameshdlive.xyz##body:style(background: black !important; margin: 0 auto !important; width: 178vh !important; max-width: 100vw !important; height: 56vw !important; max-height: 100vh !important;)
+gameshdlive.xyz##body > center:nth-of-type(4):style(background: black !important; display: block !important; margin: 0 auto !important; width: 178vh !important; max-width: 100vw !important; height: 56vw !important; max-height: 100vh !important;)
+gameshdlive.xyz##body > center:nth-of-type(4) > iframe:style(background: black !important; display: block !important; margin: 0 auto !important; width: 178vh !important; max-width: 100vw !important; height: 56vw !important; max-height: 100vh !important;)
+
+! 2022-12-27 http://weakstream.org
+weakstream.org##.adsbyvli
+weakstream.org##.ads-placment
+weakstream.org##.widget-area.content-sidebar
+weakstream.org##.discord
+weakstream.org###gamecard
+weakstream.org##p
+weakstream.org##.masonry.widget-area.footer-sidebar
+weakstream.org##.site-info
+weakstream.org##.entry-header
+weakstream.org##.site-header
+weakstream.org###colophon
+weakstream.org##body:style(background: #000 !important;)
+weakstream.org###page:style(margin: 0 !important;)
+weakstream.org###main:style(background: #000 !important; margin: 0 !important;)
+weakstream.org###primary:style(padding: 0 !important;)
+weakstream.org###page:style(padding: 0 !important;)
+weakstream.org###content:style(margin: 0 !important;)
+weakstream.org##.hentry:style(margin: 0 !important; max-width: none !important;)
+weakstream.org##.entry-content:style(margin: 0 !important; padding: 0 !important; max-width:none !important; background: #000 !important;)
+weakstream.org##.embed-responsive:style(height:56vw !important; max-height: 100vh !important; max-width:100vw !important;)
+weakstream.org##.embed-responsive video:style(height:56vw !important; max-height: 100vh !important; max-width:100vw !important;)
+weakstream.org##.embed-responsive-16by9:style(padding: 0 !important; background: #000 !important; aspect-ratio: 16 / 9; margin: 0 auto !important;)
+weakstream.org##video:style(aspect-ratio: 16 / 9;)
+weakstream.org##.site:style(max-width: none !important; display: block !important; margin: 0 auto !important;)
+weakstream.org##.container:style(height: 56vw !important; max-height: 100vh !important;max-width:100vw !important;)
+weakstream.org###video-player:style(background: #000 !important;)
+weakstream.org###video-player > div:style(height: 56vw !important; !important; width: 100% !important; max-height: 100vh !important; max-width: 100vw !important; margin: 0 auto !important;)
+weakstream.org##html:style(overflow: hidden !important;)
+weakstream.org##.active.right_bottom.floating.style-3.wp-dark-mode-ignore.wp-dark-mode-switcher
+
+! 2022-12-26 https://allsportsdaily.co
+allsportsdaily.co##header
+allsportsdaily.co##footer
+allsportsdaily.co##table
+allsportsdaily.co##br
+allsportsdaily.co##p
+allsportsdaily.co###secondary
+allsportsdaily.co###dismiss-btn
+allsportsdaily.co##body > svg
+allsportsdaily.co##body > div:nth-of-type(2)
+allsportsdaily.co###page > a
+allsportsdaily.co##.nv-top-header-wrap
+allsportsdaily.co###div-ub-allsportsdaily
+allsportsdaily.co##html:style(background: #000 !important;)
+allsportsdaily.co##body:style(background: #000 !important; margin: 0 auto !important; height: 56vw !important; max-height: 100vh !important; width: 178vh !important; max-width:100vw !important;)
+allsportsdaily.co###page:style(background: #000 !important; margin: 0 auto !important; height: 56vw !important; max-height: 100vh !important; width: 178vh !important; max-width:100vw !important;)
+allsportsdaily.co###content:style(background: #000 !important; margin: 0 auto !important; height: 56vw !important; max-height: 100vh !important; width: 178vh !important; max-width:100vw !important;)
+allsportsdaily.co##.cv-container:style(background: #000 !important; margin: 0 auto !important; height: 56vw !important; max-height: 100vh !important; width: 178vh !important; max-width:100vw !important;)
+allsportsdaily.co###primary:style(background: #000 !important; margin: 0 auto !important; height: 56vw !important; max-height: 100vh !important; width: 178vh !important; max-width:100vw !important;)
+allsportsdaily.co###main:style(background: #000 !important; margin: 0 auto !important; height: 56vw !important; max-height: 100vh !important; width: 178vh !important; max-width:100vw !important;)
+allsportsdaily.co##article:style(background: #000 !important; margin: 0 auto !important; height: 56vw !important; max-height: 100vh !important; width: 178vh !important; max-width:100vw !important;)
+allsportsdaily.co##.entry-content:style(background: #000 !important; margin: 0 auto !important; height: 56vw !important; max-height: 100vh !important; width: 178vh !important; max-width:100vw !important;)
+
+! 2023-01-02 http://metaporky.site
+metaporky.site##.elementor-section-height-default.elementor-section-full_width.elementor-element-4ac46c67.elementor-element.elementor-top-section.elementor-section
+metaporky.site##.elementor-section-height-default.elementor-section-full_width.elementor-element-cde45d0.elementor-element.elementor-top-section.elementor-section
+metaporky.site##.elementor-element-36373a62.elementor-element.elementor-top-column.elementor-col-25.elementor-column
+metaporky.site##.elementor-element-12304823.elementor-element.elementor-top-column.elementor-col-25.elementor-column
+metaporky.site##.elementor-section-height-default.elementor-section-boxed.elementor-element-275376dd.elementor-element.elementor-top-section.elementor-section
+metaporky.site##.elementor-section-height-default.elementor-section-boxed.elementor-element-4c1ded30.elementor-element.elementor-inner-section.elementor-section
+metaporky.site###dismiss-btn
+metaporky.site##.aplvideo
+metaporky.site##body > svg
+metaporky.site##.elementor-column:style(margin: 0 auto !important; height: 56vw !important; max-height: 100vh !important; width: 178vh !important; max-width:100vw !important;)
+metaporky.site###player > div:style(margin: 0 auto !important; height: 56vw !important; max-height: 100vh !important; width: 178vh !important; max-width:100vw !important;)
+metaporky.site##.elementor-widget-wrap:style(padding: 0 !important;)
+
